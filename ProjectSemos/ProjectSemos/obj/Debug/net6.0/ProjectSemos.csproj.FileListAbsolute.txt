@@ -1,0 +1,15 @@
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\bin\Debug\net6.0\ProjectSemos.exe
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\bin\Debug\net6.0\ProjectSemos.deps.json
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\bin\Debug\net6.0\ProjectSemos.runtimeconfig.json
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\bin\Debug\net6.0\ProjectSemos.dll
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\bin\Debug\net6.0\ref\ProjectSemos.dll
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\bin\Debug\net6.0\ProjectSemos.pdb
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\obj\Debug\net6.0\ProjectSemos.csproj.AssemblyReference.cache
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\obj\Debug\net6.0\ProjectSemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\obj\Debug\net6.0\ProjectSemos.AssemblyInfoInputs.cache
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\obj\Debug\net6.0\ProjectSemos.AssemblyInfo.cs
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\obj\Debug\net6.0\ProjectSemos.csproj.CoreCompileInputs.cache
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\obj\Debug\net6.0\ProjectSemos.dll
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\obj\Debug\net6.0\ref\ProjectSemos.dll
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\obj\Debug\net6.0\ProjectSemos.pdb
+C:\Users\akademija\Documents\Projects\Test\ProjectSemos\ProjectSemos\obj\Debug\net6.0\ProjectSemos.genruntimeconfig.cache
